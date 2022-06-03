@@ -1,1 +1,1 @@
-
+<img src="./img/ファイル名" alt="名前" width="300" height="300">
